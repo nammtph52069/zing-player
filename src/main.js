@@ -208,3 +208,9 @@ btn_wishlist.addEventListener("click", function(){
 btn_share.addEventListener("click", function(){
     alert("Chức năng đang phát triển");
 });
+
+
+
+
+
+console.log("vkmdcslmvl");
